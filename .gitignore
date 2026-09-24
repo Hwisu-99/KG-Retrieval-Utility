@@ -1,0 +1,13 @@
+
+# Beads / Dolt files (added by bd init)
+.dolt/
+*.db
+.beads-credential-key
+.beads/proxieddb/
+*.gate.lock*
+
+# 개인 작업 노트 (AutoNote와 동일한 규칙)
+/docs/
+
+# Beads 데이터/설정 전체 (로컬 전용)
+.beads/
